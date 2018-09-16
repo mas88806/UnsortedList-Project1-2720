@@ -1,0 +1,42 @@
+Integer Tests
+Test 1:
+Fill list with numbers 0-49. Print length which should be 50. Then use getNextItem to print the first number which should be a 0.
+
+Test 2:
+Fill list with numbers 0-49. Print length which should be 50. Then use deleteItem.  Then print length again and it should be 49.
+
+Test 3:
+Same list as Test 1.  Get next item = 2.  Reset list.  Get next item = 0.
+
+Test 4:
+Use putItem to fill a list with 10 integers.  Use the printList function to print that list.
+
+Test 5:
+Takes the 10 int list and the two 50 int lists and puts them into splitLists to split the 10 int list down the middle.  Produces two lists of length 5 each.
+
+Student Tests:
+Test 1:
+Create a student object with three parameters and prove that I have successfully overidden the << operator by printing out the student using it.
+
+Test 2:
+Returns the same as Test 1.  Uses putItem to put a Student item into a list and uses getnextItem to get that item and prints it out.
+
+Test 3:
+Add two more students to the list.  Use getnextItem to get one of the new students but then use resetList and getnextItem again to get the first student again.
+
+Test 4:
+Using the same list use getLength to show that there are 3 student objects in the list. I then use delet item to delete a specific item.  Because that item is there we get no message and i call getLength again to show it was deleted.
+
+Test 5:
+I created two more student objects and added them to the studList.  I then used printList to print the entire list of 5 students.
+
+Test 6:
+This test demonstrates what happens when you try to call deleteItem on an item that doesnt exist in the list.
+
+Test 7:
+I created two more empty student lists and put them into splitLists to split the original list into two basedon steve's id number.  The two new lists are printed.
+
+Test 8:
+This test demonstrates what happens when you give splitLists an empty list to try and split.
+
+Test 9:

@@ -1,0 +1,24 @@
+Project1:
+total 428
+-rw-r--r--. 1 ugrad    565 Jan 25 20:58 Makefile
+-rw-r--r--. 1 ugrad    553 Jan 25 20:57 Makefile~
+-rw-r--r--. 1 ugrad    109 Jan 25 21:27 README.txt
+-rw-r--r--. 1 ugrad      0 Jan 27 14:48 rec67173
+-rw-r--r--. 1 ugrad   2185 Jan 27 13:44 stud.cpp
+-rw-r--r--. 1 ugrad   2038 Jan 27 00:29 stud.cpp~
+-rw-r--r--. 1 ugrad    427 Jan 25 00:14 stud.dat
+-rw-r--r--. 1 ugrad   1479 Jan 27 13:42 stud.h
+-rw-r--r--. 1 ugrad   1446 Jan 27 00:16 stud.h~
+-rw-r--r--. 1 ugrad  85208 Jan 27 13:44 stud.o
+-rw-r--r--. 1 ugrad   1905 Jan 27 14:46 test_plan.txt
+-rw-r--r--. 1 ugrad    819 Jan 27 00:25 test_plan.txt~
+-rw-r--r--. 1 ugrad   3359 Jan 27 14:02 UnsortedList.cpp
+-rw-r--r--. 1 ugrad   3344 Jan 27 00:17 UnsortedList.cpp~
+-rw-r--r--. 1 ugrad   1632 Jan 26 14:49 UnsortedList.h
+-rw-r--r--. 1 ugrad   1651 Jan 26 14:44 UnsortedList.h~
+-rw-r--r--. 1 ugrad  34192 Jan 27 14:02 UnsortedList.o
+-rwxr-xr-x. 1 ugrad 119020 Jan 27 14:08 UnsortedListTest
+-rw-r--r--. 1 ugrad   4063 Jan 27 14:08 UnsortedListTest.cpp
+-rw-r--r--. 1 ugrad   4058 Jan 27 14:07 UnsortedListTest.cpp~
+-rw-r--r--. 1 ugrad 124504 Jan 27 14:08 UnsortedListTest.o
+/home/ugrads/strauss/csci2720/Project1:/home/work/cs2720c

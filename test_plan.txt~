@@ -1,0 +1,21 @@
+Integer Tests
+Test 1:
+Fill list with numbers 0-49. Print length which should be 50. Then use getNextItem to print the first number which should be a 0.
+
+Test 2:
+Fill list with numbers 0-49. Print length which should be 50. Then use deleteItem.  Then print length again and it should be 49.
+
+Test 3:
+Same list as Test 1.  Get next item = 2.  Reset list.  Get next item = 0.
+
+Test 4:
+Use putItem to fill a list with 10 integers.  Use the printList function to print that list.
+
+Test 5:
+Takes the 10 int list and the two 50 int lists and puts them into splitLists to split the 10 int list down the middle.  Produces two lists of length 5 each.
+
+Student Tests:
+Test 1:
+Create a student object with three parameters and prove that I have successfully overidden the << operator by printing out the student using it.
+
+Test 2:
